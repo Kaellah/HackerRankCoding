@@ -15,6 +15,5 @@ fun main() {
 }
 
 fun middleNode(/*head: ListNode?*/)/*: ListNode?*/ {
-    val n = 6
 
 }
