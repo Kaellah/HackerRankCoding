@@ -1,4 +1,4 @@
-package ua.com.kaellah.codding.tasks
+package ua.com.kaellah.codding.tasks.leetcode.easy
 
 
 fun runningSum(nums: IntArray): IntArray {

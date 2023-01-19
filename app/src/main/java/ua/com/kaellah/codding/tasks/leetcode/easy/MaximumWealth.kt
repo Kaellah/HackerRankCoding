@@ -1,4 +1,4 @@
-package ua.com.kaellah.codding.tasks.leetcode
+package ua.com.kaellah.codding.tasks.leetcode.easy
 
 import kotlin.math.max
 
